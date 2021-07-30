@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 meeeee
 Ah lookin
 Wrenched
+=======
+meeeee
+>>>>>>> parent of ec03989... second commit
