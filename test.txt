@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 meeeee
-Ah lookin
+2
 Wrenched
-=======
-meeeee
->>>>>>> parent of ec03989... second commit
