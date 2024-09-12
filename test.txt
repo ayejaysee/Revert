@@ -12,3 +12,24 @@ Test
 
 Did this work?
 
+interesting.
+
+<<<<<<< HEAD
+=======
+shoutout working copy ?
+
+lesgoooooo
+
+
+We learning!!
+
+Wait nvm
+
+Okay please nowww!
+
+Oh shoot now ?
+
+Losing hope
+
+11.11
+>>>>>>> ee6b653... 11:11
