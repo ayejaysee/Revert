@@ -14,8 +14,7 @@ Did this work?
 
 interesting.
 
-<<<<<<< HEAD
-=======
+
 shoutout working copy ?
 
 lesgoooooo
@@ -32,4 +31,7 @@ Oh shoot now ?
 Losing hope
 
 11.11
->>>>>>> ee6b653... 11:11
+
+shoutout working copy ?
+
+
